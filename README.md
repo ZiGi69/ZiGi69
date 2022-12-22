@@ -1,8 +1,8 @@
-- 👋 Hello peeps, I’m philip @ZiGi69
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello peeps, I’m philip @ZiGi69
+I’m interested in coding website e.g frontend web development
+I’m currently learning python
+I’m looking to collaborate
+How to reach me Email:philipgovernment@gmail.com , Tel. +234 8075320214
 
 <!---
 ZiGi69/ZiGi69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
